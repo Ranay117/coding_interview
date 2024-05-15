@@ -1,0 +1,318 @@
+/*-- -------------------------- -->
+<---      salmon-hero           -->
+<--- -------------------------- -*/
+#salmon-hero .Section_top .hero-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#salmon-overview {
+  .image-group {
+    width: calc(730 / 16 * 1em);
+    height: calc(561 / 16 * 1em);
+
+    .cs-picture1 {
+      width: calc(730 / 16 * 1em);
+      height: calc(561 / 16 * 1em);
+    }
+  }
+}
+
+#salmon-location {
+  .image-group {
+    width: calc(598 / 16 * 1em);
+    height: calc(536 / 16 * 1em);
+
+    .cs-picture1 {
+      width: calc(598 / 16 * 1em);
+      height: calc(536 / 16 * 1em);
+    }
+  }
+}
+
+#salmon-bring {
+  .image-group {
+    width: calc(747 / 16 * 1em);
+    height: calc(690 / 16 * 1em);
+
+    .cs-picture1 {
+      width: calc(747 / 16 * 1em);
+      height: calc(690 / 16 * 1em);
+    }
+  }
+}
+/*-- -------------------------- -->
+<---        OverView            -->
+<--- -------------------------- -*/
+
+#overview {
+  .cs-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .text-content {
+    max-width: 700px;
+    ul {
+      padding-left: 25px;
+      li::marker {
+        font-size: 22px;
+        color: #049a4b;
+      }
+    }
+  }
+
+  .image-group {
+    font-size: min(2vw, 0.8em);
+    width: calc(779 / 16 * 1em);
+    height: calc(542 / 16 * 1em);
+    display: block;
+    position: relative;
+    z-index: 1;
+
+    .cs-picture {
+      position: absolute;
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: block;
+      }
+    }
+    .cs-picture1 {
+      width: calc(779 / 16 * 1em);
+      height: calc(542 / 16 * 1em);
+      top: 0;
+      left: 0;
+    }
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  #overview {
+    .cs-container {
+      flex-direction: row;
+    }
+
+    .image-group {
+      font-size: min(0.8vw, 0.8em);
+    }
+
+    .text-content {
+      max-width: 500px;
+    }
+  }
+}
+/*-- -------------------------- -->
+<---     Book Our Services      -->
+<--- -------------------------- -*/
+
+#book-our-service {
+  .cs-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .service-box {
+    background: #25082d;
+    border-radius: 27px;
+    padding-left: 41px;
+    overflow: hidden;
+  }
+  .text-content {
+    max-width: 700px;
+    .cs-title {
+      color: #ffffff;
+    }
+    .cs-text {
+      color: #ffffff;
+      margin-bottom: 43px;
+    }
+  }
+
+  .image-group {
+    font-size: min(2vw, 0.8em);
+    width: calc(700 / 16 * 1em);
+    height: calc(502 / 16 * 1em);
+    display: block;
+    position: relative;
+    z-index: 1;
+
+    .cs-picture {
+      position: absolute;
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: block;
+      }
+    }
+    .cs-picture1 {
+      width: calc(700 / 16 * 1em);
+      height: calc(502 / 16 * 1em);
+      top: 0;
+      left: 0;
+    }
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  #book-our-service {
+    .cs-container {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+
+    .image-group {
+      font-size: min(0.8vw, 0.8em);
+    }
+  }
+}
+/*-- -------------------------- -->
+<---    pricing & packages      -->
+<--- -------------------------- -*/
+
+#pricing-and-package {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .cs-title {
+    text-align: center;
+  }
+
+  .pricing-box {
+    background: rgba(217, 217, 217, 0.36);
+    border-radius: 19px;
+    padding: 20px;
+  }
+
+  .cs-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+
+    .card {
+      width: 260px;
+      padding: 30px 20px;
+      border-radius: 26px;
+    }
+    .full-day {
+      background: #ffffff;
+      .topper {
+        color: #145fa4;
+        font-size: 20px;
+      }
+      .price {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        .cs-hero-title {
+          color: #049a4b;
+          font-size: 40px;
+          margin-right: 8px;
+        }
+        .discount-text {
+          color: #3a3a3a;
+          font-size: 14px;
+          font-weight: 400;
+        }
+      }
+      .cs-text {
+        font-size: 14px;
+        line-height: 110%;
+        color: #3a3a3a;
+      }
+    }
+    .half-day {
+      background: #ffffff;
+      .topper {
+        color: #145fa4;
+        font-size: 20px;
+      }
+      .price {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        .cs-hero-title {
+          color: #25082d;
+          font-size: 40px;
+          margin-right: 8px;
+        }
+        .discount-text {
+          color: #3a3a3a;
+          font-size: 12px;
+          font-weight: 400;
+        }
+      }
+      .cs-text {
+        font-size: 14px;
+        line-height: 110%;
+        color: #3a3a3a;
+      }
+    }
+    .special-package {
+      background: #25082d;
+      .topper {
+        color: #ffffff;
+        font-size: 20px;
+      }
+      .price {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        .cs-hero-title {
+          color: #ffffff;
+          font-size: 40px;
+          margin-right: 8px;
+        }
+        .discount-text {
+          color: #ffffff;
+          font-size: 14px;
+          font-weight: 400;
+        }
+      }
+      .cs-text {
+        font-size: 14px;
+        line-height: 110%;
+        color: #ffffff;
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  #pricing-and-package {
+    .cs-container {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+    .pricing-box {
+      padding: 35px;
+      width: 1035px;
+    }
+    .card {
+      width: 295px;
+      padding: 50px 30px;
+    }
+  }
+}

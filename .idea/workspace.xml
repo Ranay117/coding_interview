@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb0db0e-452c-4f44-9478-a4ca028c0726" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.eleventy.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eleventy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netlify.toml" beforeDir="false" afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_data/client.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/_data/client.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/components/cta.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/components/cta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/components/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/components/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/components/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/components/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/layouts/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_redirects" beforeDir="false" afterPath="$PROJECT_DIR$/src/_redirects" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/favicons/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/favicons/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/favicons/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/favicons/safari-pinned-tab.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/favicons/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/favicons/site.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sass/about-us.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/sass/about-us.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sass/bottom-fish.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sass/components.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/sass/components.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sass/contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/sass/contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sass/crabbing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sass/critical-above-fold.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/sass/critical-above-fold.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sass/gallery.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/sass/gallery.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sass/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/sass/global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sass/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/sass/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sass/salmon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/sass/salmon.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sass/services.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/sass/services.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sass/shad.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sass/steelhead.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sass/sturgeon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/svgs/arrow-right-purple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svgs/arrow-right-purple.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/svgs/arrow-right-white.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svgs/arrow-right-white.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/svgs/down-1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svgs/down-1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/svgs/fb-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svgs/fb-logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/svgs/fb-thumbs-up.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svgs/fb-thumbs-up.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/svgs/five-stars.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svgs/five-stars.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/svgs/mail-geen.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svgs/mail-geen.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/svgs/mail-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svgs/mail-icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/svgs/phone-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svgs/phone-green.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/svgs/phone-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svgs/phone-icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/svgs/phone.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svgs/phone.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/pages/_template.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/pages/_template.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/pages/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/pages/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/pages/bottom-fish.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/pages/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/pages/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/pages/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/pages/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/pages/nehalem-bay-crabbing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/pages/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/pages/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/pages/shad-fishing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/pages/sturgeon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/pages/summer-and-fall-salmon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/pages/winter-steelhead.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sitemap.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2gTNDll1QzrM5veBFyTBFEkdWTN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/ahsan/Downloads/Coding Interview"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb0db0e-452c-4f44-9478-a4ca028c0726" name="Changes" comment="" />
+      <created>1715717489703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715717489703</updated>
+    </task>
+    <servers />
+  </component>
+</project>
